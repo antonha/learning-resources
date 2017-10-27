@@ -84,3 +84,9 @@ This is not a software book. It is about how people fool themselves into many th
 - [news.ycombinator.com](news.ycombinator.com)
 
 I check this site at least daily. Look at topics which are trending, read them if the topic interests you. Don't forget to check out the comments, it is not unusual that some very experienced people offer their views on to articles. 
+
+## Articles 
+
+- [My Philosophy on Alerting](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/edit) 
+
+Very good tips for how to make the on-call experience as painless as possible.
